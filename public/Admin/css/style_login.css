@@ -1,0 +1,37 @@
+/*Login/index*/
+.co_uer{
+	width: 25px;
+	height: 25px;
+	background-image: url(../img/login_ico.png);
+	background-position: -125px -212px;
+	position: absolute;
+	margin: 10px 13px;
+}
+.input_outer{
+	margin-bottom: 20px;
+}
+.input_outer .vcode{
+	position: absolute;
+	z-index: 100;
+	vertical-align: middle;
+	margin: 1px 0 0 180px;
+	border-radius: 5px;
+}
+.input_outer .text{
+	vertical-align: middle;
+	color: #FFFFFF !important
+}
+.input_outer .text2{
+	position:absolute;
+	z-index:100;
+}
+.input_outer .text3{
+	position:absolute; 
+	z-index:100;
+	width: 120px;
+}
+.logo_box .act-but{
+	color: #FFFFFF;
+	width: 100%;
+	border: none;
+}
